@@ -1,4 +1,5 @@
-TV Shows Search App
+**TV Shows Search App**
+
 This project is a simple React application that fetches TV show information from the TVMaze API based on user input.
 
 Features
@@ -9,6 +10,24 @@ React
 Axios (for API requests)
 TVMaze API
 Getting Started
+
+Structure of project
+
+tv-shows-search-app/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── App.css
+│   ├── App.js
+│   ├── index.css
+│   ├── index.js
+│   ├── TableComponent.js
+│   └── README.md
+├── .gitignore
+├── package.json
+└── README.md
+
 To run this project locally, follow these steps:
 
 Clone the repository:
